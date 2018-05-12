@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '24991'
     url: http://www.gutenberg.org/2009/agents/24991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21954#Het-moderne-Egypte--Wat-er-te-zien-en-te-hooren-valt-tusschen-Ka-ro-en-Faschoda--13-De-Aarde-_
 gutenberg_bookshelf:
 - De Aarde en haar Volken
 - Egypt
