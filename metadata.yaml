@@ -1,0 +1,32 @@
+_repo: Het-moderne-Egypte--Wat-er-te-zien-en-te-hooren-valt-tusschen-Ka-ro-en-Faschoda--13-De-Aarde-__21954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerville, A. B. de (Amédée Baillot de)
+    aliases:
+    - Guerville, Amédée Baillot de
+    - Guerville, A. B. de (Amedee Baillot de)
+    birthdate: 1869
+    gutenberg_agent_id: '24991'
+    url: http://www.gutenberg.org/2009/agents/24991
+description: ''
+gutenberg_bookshelf:
+- De Aarde en haar Volken
+- Egypt
+gutenberg_issued: '2007-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21954'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- Description and travel'
+title: "Het moderne Egypte: Wat er te zien en te hooren valt tusschen Kaïro en Faschoda\r\
+  \nDe Aarde en haar Volken, 1908"
+url: http://www.gutenberg.org/ebooks/21954
